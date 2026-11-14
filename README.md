@@ -3,4 +3,6 @@ Meu primeiro repositório do curso EBAC
 
 # Meu primeiro commit!
 
-# Apenas um comentário para atualizar o git!
+# Apenas um comentário para atualizar o git
+
+# Reposicionando a branch master
