@@ -1,6 +1,6 @@
-# Ebac-Primeiro-Repositorio
-Meu primeiro repositório do curso EBAC
+# Aula prática -  EBAC
 
-# Meu primeiro commit!
+Adicionando e-mail:
 
-# Apenas um comentário para atualizar o git!
+christiansilvaholanda@gmail.com
+
