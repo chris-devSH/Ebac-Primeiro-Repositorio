@@ -1,6 +1,5 @@
-# Aula prática -  EBAC
+# Exercicio - EBAC
 
-Adicionando e-mail:
+Enviando e-mail
 
 christiansilvaholanda@gmail.com
-
